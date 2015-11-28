@@ -47,8 +47,8 @@
 
 - Command Line
   
-    - [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)
-    - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+  - [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)
+  - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
     
 - Git 使用
 
@@ -58,13 +58,13 @@
 
 - Ruby 語言
   
-    - [CodeSchool──Try Ruby](https://www.codeschool.com/courses/try-ruby)
+  - [CodeSchool──Try Ruby](https://www.codeschool.com/courses/try-ruby)
   - [笨方法學 Ruby](http://lrthw.github.io/)
   - [Ruby Document](http://ruby-doc.org)
 
 - 其他
   
-    - [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)──使用 Ruby 過關吧
+  - [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)──使用 Ruby 過關吧
   - [Codewars](http://www.codewars.com/)
 
 
@@ -74,7 +74,7 @@
 - 內容先決──[新手寫給新手的 Ruby on Rails 介紹](http://disco26.logdown.com/posts/168410-novice-to-novice-ruby-on-rails-introduction)
 
 
-## 有問題/找導師/找戰友/找工作
+## 有問題、找導師、找戰友、找工作
 
 - 有問題
   - 嘗試 Google 錯誤訊息
@@ -84,17 +84,18 @@
   - [RailsFun 論壇](http://railsfun.tw/)
   - [Ruby China 論壇](https://ruby-china.org/)
 
-- 找導師/找戰友
+- 找導師、找戰友
   - [台灣 Ruby 社群聚會表](https://github.com/rubytaiwan/rubytw-reboot/wiki/Meetups)
   - [Aruru 自學趣](http://www.aruru.co/)
 
 - 找工作
-    - [台灣 Ruby 社群聚會表](https://github.com/rubytaiwan/rubytw-reboot/wiki/Meetups)
-    - [Ruby Taiwan 職缺看板](http://jobs.ruby.tw/)
-    - [Inside Job Board](https://jobs.inside.com.tw/jobs/index?c=&k=ruby+rails)
-    - Bruce 的玩具間──[應徵 Rails 工作的心得](http://toyroom.bruceli.net/tw/2014/02/26/my-experience-on-applying-rails-jobs.html)
-    - xdite──[Land dream rails job](https://xdite.gitbooks.io/land-dream-rails-job/content/)
-    - Thoughtbot──[land your dream rails job](https://upcase.com/pages/land-your-dream-rails-job)
+  - [台灣 Ruby 社群聚會表](https://github.com/rubytaiwan/rubytw-reboot/wiki/Meetups)
+  - [台灣使用 Ruby 的公司列表](https://github.com/rubytaiwan/AMA/wiki/Companies)
+  - [Ruby Taiwan 職缺看板](http://jobs.ruby.tw/)
+  - [Inside Job Board](https://jobs.inside.com.tw/jobs/index?c=&k=ruby+rails)
+  - Bruce 的玩具間──[應徵 Rails 工作的心得](http://toyroom.bruceli.net/tw/2014/02/26/my-experience-on-applying-rails-jobs.html)
+  - xdite──[Land dream rails job](https://xdite.gitbooks.io/land-dream-rails-job/content/)
+  - Thoughtbot──[land your dream rails job](https://upcase.com/pages/land-your-dream-rails-job)
 
 
 
