@@ -2,11 +2,13 @@
 
 給 Ruby on Rails 入門初學者
 
+
 ## 行前建議
 
-1. 一台
+1. 一台可以上網的電腦
 2. 不怕閱讀英文
 3. 一顆愉悅的心
+
 
 ## 學習資源
 
@@ -17,6 +19,7 @@
 3. 著手 Ruby on Rails
 
 註：標題若為全英文即該教材為英文授課，順序是我認為對於新手的難易度。
+
 
 ## 完整教學課程
 
@@ -40,9 +43,11 @@
 教材擇一學習即可，此部分為建構基本網頁知識
 
 - 網站基本架構
-  
+
   - [CodeCademy──HTML&CSS](https://www.codecademy.com/learn/web)
   - [CodeSchool──HTML/CSS](https://www.codeschool.com/paths/html-css)
+  - [Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/)
+  - [Primer](http://primercss.io)
   - [MDN──給開發者的網頁技術文件](https://developer.mozilla.org/zh-TW/docs/Web)
 
 - Command Line
@@ -96,9 +101,6 @@
   - Bruce 的玩具間──[應徵 Rails 工作的心得](http://toyroom.bruceli.net/tw/2014/02/26/my-experience-on-applying-rails-jobs.html)
   - xdite──[Land dream rails job](https://xdite.gitbooks.io/land-dream-rails-job/content/)
   - Thoughtbot──[land your dream rails job](https://upcase.com/pages/land-your-dream-rails-job)
-
-
-
 
 
 ## Notes
