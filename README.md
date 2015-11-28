@@ -35,7 +35,7 @@
 - 互動教學或是影片教學
   - [RailsFun 教學與分享](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_)
   - [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-  - [CodeSchool──PATH Ruby](https://www.codeschool.com/paths/ruby)
+  - [CodeSchool—PATH Ruby](https://www.codeschool.com/paths/ruby)
 
 
 ## 個別項目課程
@@ -44,31 +44,31 @@
 
 - 網站基本架構
 
-  - [CodeCademy──HTML&CSS](https://www.codecademy.com/learn/web)
-  - [CodeSchool──HTML/CSS](https://www.codeschool.com/paths/html-css)
+  - [CodeCademy—HTML&CSS](https://www.codecademy.com/learn/web)
+  - [CodeSchool—HTML/CSS](https://www.codeschool.com/paths/html-css)
   - [Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/)
   - [Primer](http://primercss.io)
   - [MDN──給開發者的網頁技術文件](https://developer.mozilla.org/zh-TW/docs/Web)
 
 - Command Line
-  
+
   - [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)
   - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-    
+
 - Git 使用
 
   - [連猴子都能懂得 Git 入門指南](https://backlogtool.com/git-guide/tw/)
-  - [CodeSchool──Try git](https://www.codeschool.com/courses/try-git)
+  - [CodeSchool—Try git](https://www.codeschool.com/courses/try-git)
   - [Git 官方教材](http://git-scm.com/book/zh/ch1-4.html)
 
 - Ruby 語言
-  
-  - [CodeSchool──Try Ruby](https://www.codeschool.com/courses/try-ruby)
+
+  - [CodeSchool—Try Ruby](https://www.codeschool.com/courses/try-ruby)
   - [笨方法學 Ruby](http://lrthw.github.io/)
   - [Ruby Document](http://ruby-doc.org)
 
 - 其他
-  
+
   - [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)──使用 Ruby 過關吧
   - [Codewars](http://www.codewars.com/)
 
@@ -85,7 +85,7 @@
   - 嘗試 Google 錯誤訊息
   - 找找 [Stack Overflow](http://stackoverflow.com/)
   - [Ruby Taiwan AMA (Ask Me Anything)](https://github.com/rubytaiwan/AMA)
-  - [Facebook──Ruby on Rails 新手村](https://www.facebook.com/groups/RailsRookie/)
+  - [Facebook—Ruby on Rails 新手村](https://www.facebook.com/groups/RailsRookie/)
   - [RailsFun 論壇](http://railsfun.tw/)
   - [Ruby China 論壇](https://ruby-china.org/)
 
@@ -99,8 +99,8 @@
   - [Ruby Taiwan 職缺看板](http://jobs.ruby.tw/)
   - [Inside Job Board](https://jobs.inside.com.tw/jobs/index?c=&k=ruby+rails)
   - Bruce 的玩具間──[應徵 Rails 工作的心得](http://toyroom.bruceli.net/tw/2014/02/26/my-experience-on-applying-rails-jobs.html)
-  - xdite──[Land dream rails job](https://xdite.gitbooks.io/land-dream-rails-job/content/)
-  - Thoughtbot──[land your dream rails job](https://upcase.com/pages/land-your-dream-rails-job)
+  - xdite—[Land dream rails job](https://xdite.gitbooks.io/land-dream-rails-job/content/)
+  - Thoughtbot—[land your dream rails job](https://upcase.com/pages/land-your-dream-rails-job)
 
 
 ## Notes
