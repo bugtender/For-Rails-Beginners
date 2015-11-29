@@ -1,4 +1,4 @@
-# For Rails Begginer
+# For Rails Beginner
 
 給 Ruby on Rails 入門初學者
 
