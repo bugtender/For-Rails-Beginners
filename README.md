@@ -77,7 +77,7 @@
 
 - 攝理生活記──[Ruby on Rails 自學推薦資源以及注意事項](http://blog.cgmlife.net/posts/2014/04/12/recommended-ruby-on-rails-learning-resources)
 - 內容先決──[新手寫給新手的 Ruby on Rails 介紹](http://disco26.logdown.com/posts/168410-novice-to-novice-ruby-on-rails-introduction)
-
+- Annideas──[Ruby女孩：10萬.times { puts "為什麼？" }](http://blog.annideas.com/ironman7)
 
 ## 有問題、找導師、找戰友、找工作
 
