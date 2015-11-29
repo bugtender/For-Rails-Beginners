@@ -82,6 +82,7 @@
 ## 有問題、找導師、找戰友、找工作
 
 - 有問題
+  - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
   - 嘗試 Google 錯誤訊息
   - 找找 [Stack Overflow](http://stackoverflow.com/)
   - [Ruby Taiwan AMA (Ask Me Anything)](https://github.com/rubytaiwan/AMA)
