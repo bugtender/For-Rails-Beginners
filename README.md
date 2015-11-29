@@ -26,16 +26,16 @@
 這邊收錄完整的教學課程，幾乎都是從基礎教起到可實作出簡單的網站。
 
 - 文章
-  - [Rails Girls 官方指南中文版](http://railsgirls.tw/)
-  - [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/)
-  - [Ruby on Rails 教程](http://railstutorial-china.org/)
-  - [Rails 101 課程](http://courses.growthschool.com/courses/rails-101)
-  - [Rails Guides](http://guides.rubyonrails.org/)
+  - [Rails Girls 官方指南中文版](http://railsgirls.tw/)（免費）
+  - [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/)（免費）
+  - [Ruby on Rails 教程](http://railstutorial-china.org/)（免費）
+  - [Rails 101 課程](http://courses.growthschool.com/courses/rails-101)（免費）
+  - [Rails Guides](http://guides.rubyonrails.org/)（免費）
 
 - 互動教學或是影片教學
-  - [RailsFun 教學與分享](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_)
-  - [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-  - [CodeSchool—PATH Ruby](https://www.codeschool.com/paths/ruby)
+  - [RailsFun 教學與分享](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_)（免費）
+  - [Ruby on Rails Tutorial](https://www.railstutorial.org/)（線上觀看免費）
+  - [CodeSchool—PATH Ruby](https://www.codeschool.com/paths/ruby)（部份免費，部份需付費訂閱，月訂閱制）
 
 
 ## 個別項目課程
@@ -44,33 +44,33 @@
 
 - 網站基本架構
 
-  - [CodeCademy—HTML&CSS](https://www.codecademy.com/learn/web)
-  - [CodeSchool—HTML/CSS](https://www.codeschool.com/paths/html-css)
-  - [Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/)
-  - [Primer](http://primercss.io)
-  - [MDN──給開發者的網頁技術文件](https://developer.mozilla.org/zh-TW/docs/Web)
+  - [CodeCademy—HTML&CSS](https://www.codecademy.com/learn/web)（免費）
+  - [CodeSchool—HTML/CSS](https://www.codeschool.com/paths/html-css)（部份免費，部份需付費訂閱，月訂閱制）
+  - [Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/)（免費）
+  - [Primer](http://primercss.io（免費）
+  - [MDN──給開發者的網頁技術文件](https://developer.mozilla.org/zh-TW/docs/Web)（免費）
 
 - Command Line
 
-  - [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)
-  - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+  - [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)（線上觀看免費）
+  - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)（免費）
 
 - Git 使用
 
-  - [連猴子都能懂得 Git 入門指南](https://backlogtool.com/git-guide/tw/)
-  - [CodeSchool—Try git](https://www.codeschool.com/courses/try-git)
-  - [Git 官方教材](http://git-scm.com/book/zh/ch1-4.html)
+  - [連猴子都能懂得 Git 入門指南](https://backlogtool.com/git-guide/tw/)（免費）
+  - [CodeSchool—Try git](https://www.codeschool.com/courses/try-git)（免費）
+  - [Git 官方教材](http://git-scm.com/book/zh/ch1-4.html)（免費）
 
 - Ruby 語言
 
-  - [CodeSchool—Try Ruby](https://www.codeschool.com/courses/try-ruby)
-  - [笨方法學 Ruby](http://lrthw.github.io/)
-  - [Ruby Document](http://ruby-doc.org)
+  - [CodeSchool—Try Ruby](https://www.codeschool.com/courses/try-ruby)（免費）
+  - [笨方法學 Ruby](http://lrthw.github.io/)（免費）
+  - [Ruby Document](http://ruby-doc.org)（免費）
 
 - 其他
 
-  - [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)──使用 Ruby 過關吧
-  - [Codewars](http://www.codewars.com/)
+  - [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)──使用 Ruby 過關吧（免費）
+  - [Codewars](http://www.codewars.com/)（免費）
 
 
 ## 朋友學習心得
