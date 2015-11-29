@@ -38,16 +38,16 @@
   - [CodeSchool—PATH Ruby](https://www.codeschool.com/paths/ruby)（部份免費，部份需付費訂閱，月訂閱制）
 
 
-## 個別項目課程
+## 各別項目課程
 
-教材擇一學習即可，此部分為建構基本網頁知識
+教材各項目擇一學習即可，此部分為建構基本網頁知識
 
 - 網站基本架構
 
   - [CodeCademy—HTML&CSS](https://www.codecademy.com/learn/web)（免費）
   - [CodeSchool—HTML/CSS](https://www.codeschool.com/paths/html-css)（部份免費，部份需付費訂閱，月訂閱制）
   - [Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/)（免費）
-  - [Primer](http://primercss.io（免費）
+  - [Primer](http://primercss.io)（免費）
   - [MDN──給開發者的網頁技術文件](https://developer.mozilla.org/zh-TW/docs/Web)（免費）
 
 - Command Line
