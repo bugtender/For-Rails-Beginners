@@ -23,12 +23,12 @@
 
 ## 完整教學課程
 
-這邊收錄完整的教學課程，幾乎都是從基礎教起到可實作出簡單的網站。
+> 這邊收錄完整的教學課程，幾乎都是從基礎教起到可實作出簡單的網站。
 
 ### 文章
 
 名稱|標籤|
---|--
+--- | ---
 [Rails Girls 官方指南中文版](http://railsgirls.tw/) | ![][All/Free]
 [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/) | ![][All/Free]
 [Ruby on Rails 教程](http://railstutorial-china.org/) | ![][All/Free]
@@ -37,7 +37,7 @@
 
 ### 互動教學或是影片教學
 名稱|標籤|
---|--
+--- | ---
 [RailsFun 教學與分享](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_) | ![][All/Free]
 [Ruby on Rails Tutorial](https://www.railstutorial.org/) | ![][Online/Free]
 [CodeSchool—PATH Ruby](https://www.codeschool.com/paths/ruby) | ![][Part of/Free] ![][Monthly/$29]
@@ -45,11 +45,11 @@
 
 ## 各別項目課程
 
-教材各項目擇一學習即可，此部分為建構基本網頁知識
+> 教材各項目擇一學習即可，此部分為建構基本網頁知識
 
 ### 網站基本架構
 名稱|標籤|
---|--
+--- | ---
 [CodeCademy—HTML&CSS](https://www.codecademy.com/learn/web) | ![][All/Free]
 [CodeSchool—HTML/CSS](https://www.codeschool.com/paths/html-css) | ![][Part of/Free] ![][Monthly/$29]
 [Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/) | ![][All/Free]
@@ -58,27 +58,27 @@
 
 ### Command Line
 名稱|標籤|
---|--
+--- | ---
 [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial) | ![][Online/Free]
 [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) | ![][All/Free]
 
 ### Git 使用
 名稱|標籤|
---|--
+--- | ---
 [連猴子都能懂得 Git 入門指南](https://backlogtool.com/git-guide/tw/) | ![][All/Free]
 [CodeSchool—Try git](https://www.codeschool.com/courses/try-git) | ![][All/Free]
 [Git 官方教材](http://git-scm.com/book/zh/ch1-4.html) | ![][All/Free]
 
 ### Ruby 語言
 名稱|標籤|
---|--
+--- | ---
 [CodeSchool — Try Ruby](https://www.codeschool.com/courses/try-ruby) | ![][All/Free]
 [笨方法學 Ruby](http://lrthw.github.io/) | ![][All/Free]
 [Ruby Document](http://ruby-doc.org) | ![][All/Free]
 
 ### 其他
 名稱|標籤|
---|--
+--- | ---
 [Ruby Warrior ─ 使用 Ruby 過關吧](https://www.bloc.io/ruby-warrior/#/) | ![][All/Free]
 [Codewars](http://www.codewars.com/) | ![][All/Free]
 
