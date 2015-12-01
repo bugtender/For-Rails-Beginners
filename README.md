@@ -119,7 +119,7 @@
 - 參考資料：[Ruby on Rails 新手村精華區](http://bit.ly/1A3j4zE)
 
 
-[All/Free]: https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free"
-[Online/Free]: https://img.shields.io/badge/Online-free-green.svg?style=flat-square "Online Free"
-[Part of/Free]: https://img.shields.io/badge/Part_of-free-green.svg?style=flat-square "Part of Free"
+[All/Free]: https://img.shields.io/badge/All-Free-green.svg?style=flat-square "All Free"
+[Online/Free]: https://img.shields.io/badge/Online-Free-green.svg?style=flat-square "Online Free"
+[Part of/Free]: https://img.shields.io/badge/Part_of-Free-green.svg?style=flat-square "Part of Free"
 [Monthly/$29]: https://img.shields.io/badge/Monthly-$29-red.svg?style=flat-square "Monthly $29"
