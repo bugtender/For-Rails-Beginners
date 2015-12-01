@@ -26,25 +26,16 @@
 這邊收錄完整的教學課程，幾乎都是從基礎教起到可實作出簡單的網站。
 
 - 文章
-  - [Rails Girls 官方指南中文版](http://railsgirls.tw/)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
-  - [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
-  - [Ruby on Rails 教程](http://railstutorial-china.org/)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
-  - [Rails 101 課程](http://courses.growthschool.com/courses/rails-101)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
-  - [Rails Guides](http://guides.rubyonrails.org/)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+  - [Rails Girls 官方指南中文版](http://railsgirls.tw/) ![][All/Free]
+  - [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/) ![][All/Free]
+  - [Ruby on Rails 教程](http://railstutorial-china.org/) ![][All/Free]
+  - [Rails 101 課程](http://courses.growthschool.com/courses/rails-101) ![][All/Free]
+  - [Rails Guides](http://guides.rubyonrails.org/) ![][All/Free]
 
 - 互動教學或是影片教學
-  - [RailsFun 教學與分享](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
-  - [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-    ![](https://img.shields.io/badge/Online-free-green.svg?style=flat-square "Online Free")
-  - [CodeSchool—PATH Ruby](https://www.codeschool.com/paths/ruby)
-    ![](https://img.shields.io/badge/Part_of-free-green.svg?style=flat-square "Part of free")
-    ![](https://img.shields.io/badge/Monthly-$29/month-red.svg?style=flat-square "$29 per month")
+  - [RailsFun 教學與分享](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_) ![][All/Free]
+  - [Ruby on Rails Tutorial](https://www.railstutorial.org/) ![][Online/Free]
+  - [CodeSchool—PATH Ruby](https://www.codeschool.com/paths/ruby) ![][Part of/Free] ![][Monthly/$29]
 
 
 ## 各別項目課程
@@ -54,48 +45,44 @@
 - 網站基本架構
 
   - [CodeCademy—HTML&CSS](https://www.codecademy.com/learn/web)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
-  - [CodeSchool—HTML/CSS](https://www.codeschool.com/paths/html-css)
-    ![](https://img.shields.io/badge/Part_of-free-green.svg?style=flat-square "Part of free")
-    ![](https://img.shields.io/badge/Monthly-$29/month-red.svg?style=flat-square "$29 per month")
-  - [Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
-  - [Primer](http://primercss.io)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
+  - [CodeSchool—HTML/CSS](https://www.codeschool.com/paths/html-css) ![][Part of/Free] ![][Monthly/$29]
+  - [Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/) ![][All/Free]
+  - [Primer](http://primercss.io) ![][All/Free]
   - [MDN──給開發者的網頁技術文件](https://developer.mozilla.org/zh-TW/docs/Web)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
 
 - Command Line
 
   - [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)
-    ![](https://img.shields.io/badge/Online-free-green.svg?style=flat-square "Online Free")
+    ![][Online/Free]
   - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
 
 - Git 使用
 
   - [連猴子都能懂得 Git 入門指南](https://backlogtool.com/git-guide/tw/)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
   - [CodeSchool—Try git](https://www.codeschool.com/courses/try-git)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
   - [Git 官方教材](http://git-scm.com/book/zh/ch1-4.html)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
 
 - Ruby 語言
 
   - [CodeSchool—Try Ruby](https://www.codeschool.com/courses/try-ruby)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
   - [笨方法學 Ruby](http://lrthw.github.io/)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
   - [Ruby Document](http://ruby-doc.org)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
 
 - 其他
 
   - [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)──使用 Ruby 過關吧
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
   - [Codewars](http://www.codewars.com/)
-    ![](https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free")
+    ![][All/Free]
 
 
 ## 朋友學習心得
@@ -132,3 +119,9 @@
 ## Notes
 
 - 參考資料：[Ruby on Rails 新手村精華區](http://bit.ly/1A3j4zE)
+
+
+[All/Free]: https://img.shields.io/badge/All-free-green.svg?style=flat-square "All Free"
+[Online/Free]: https://img.shields.io/badge/Online-free-green.svg?style=flat-square "Online Free"
+[Part of/Free]: https://img.shields.io/badge/Part_of-free-green.svg?style=flat-square "Part of Free"
+[Monthly/$29]: https://img.shields.io/badge/Monthly-$29-red.svg?style=flat-square "Monthly $29"
