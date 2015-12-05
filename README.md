@@ -29,18 +29,18 @@
 
 名稱|標籤|
 --- | ---
-[Rails Girls 官方指南中文版](http://railsgirls.tw/) | ![][All/Free]
-[Ruby on Rails 實戰聖經](https://ihower.tw/rails4/) | ![][All/Free]
-[Ruby on Rails 教程](http://railstutorial-china.org/) | ![][All/Free]
-[Rails 101 課程](http://courses.growthschool.com/courses/rails-101) | ![][All/Free]
-[Rails Guides](http://guides.rubyonrails.org/) | ![][All/Free]
+[Rails Girls 官方指南中文版](http://railsgirls.tw/) | [![][All/Free]](http://railsgirls.tw/)
+[Ruby on Rails 實戰聖經](https://ihower.tw/rails4/) | [![][All/Free]](https://ihower.tw/rails4/)
+[Ruby on Rails 教程](http://railstutorial-china.org/) | [![][All/Free]](http://railstutorial-china.org/)
+[Rails 101 課程](http://courses.growthschool.com/courses/rails-101) | [![][All/Free]](http://courses.growthschool.com/courses/rails-101)
+[Rails Guides](http://guides.rubyonrails.org/) | [![][All/Free]](http://guides.rubyonrails.org/)
 
 ### 互動教學或是影片教學
 名稱|標籤|
 --- | ---
-[RailsFun 教學與分享](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_) | ![][All/Free]
-[Ruby on Rails Tutorial](https://www.railstutorial.org/) | ![][Online/Free]
-[CodeSchool—PATH Ruby](https://www.codeschool.com/paths/ruby) | ![][Part of/Free] ![][Monthly/$29]
+[RailsFun 教學與分享](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_) | [![][All/Free]](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_)
+[Ruby on Rails Tutorial](https://www.railstutorial.org/) | [![][Online/Free]](https://www.railstutorial.org/)
+[CodeSchool—PATH Ruby](https://www.codeschool.com/paths/ruby) | [![][Part of/Free]](https://www.codeschool.com/paths/ruby) [![][Monthly/$29]](https://www.codeschool.com/paths/ruby)
 
 
 ## 各別項目課程
@@ -50,37 +50,37 @@
 ### 網站基本架構
 名稱|標籤|
 --- | ---
-[CodeCademy—HTML&CSS](https://www.codecademy.com/learn/web) | ![][All/Free]
-[CodeSchool—HTML/CSS](https://www.codeschool.com/paths/html-css) | ![][Part of/Free] ![][Monthly/$29]
-[Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/) | ![][All/Free]
-[Primer](http://primercss.io) | ![][All/Free]
-[MDN──給開發者的網頁技術文件](https://developer.mozilla.org/zh-TW/docs/Web) | ![][All/Free]
+[CodeCademy—HTML&CSS](https://www.codecademy.com/learn/web) | [![][All/Free]](https://www.codecademy.com/learn/web)
+[CodeSchool—HTML/CSS](https://www.codeschool.com/paths/html-css) | [![][Part of/Free]](https://www.codeschool.com/paths/html-css) [![][Monthly/$29]](https://www.codeschool.com/paths/html-css)
+[Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/) | [![][All/Free]](http://juanitofatas.com/code-guide/)
+[Primer](http://primercss.io) | [![][All/Free]](http://primercss.io)
+[MDN──給開發者的網頁技術文件](https://developer.mozilla.org/zh-TW/docs/Web) | [![][All/Free]](https://developer.mozilla.org/zh-TW/docs/Web)
 
 ### Command Line
 名稱|標籤|
 --- | ---
-[Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial) | ![][Online/Free]
-[The Command Line Crash Course](http://cli.learncodethehardway.org/book/) | ![][All/Free]
+[Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial) | [![][Online/Free]](http://www.learnenough.com/command-line-tutorial)
+[The Command Line Crash Course](http://cli.learncodethehardway.org/book/) | [![][All/Free]](http://cli.learncodethehardway.org/book/)
 
 ### Git 使用
 名稱|標籤|
 --- | ---
-[連猴子都能懂得 Git 入門指南](https://backlogtool.com/git-guide/tw/) | ![][All/Free]
-[CodeSchool—Try git](https://www.codeschool.com/courses/try-git) | ![][All/Free]
-[Git 官方教材](http://git-scm.com/book/zh/ch1-4.html) | ![][All/Free]
+[連猴子都能懂得 Git 入門指南](https://backlogtool.com/git-guide/tw/) | [![][All/Free]](https://backlogtool.com/git-guide/tw/)
+[CodeSchool—Try git](https://www.codeschool.com/courses/try-git) | [![][All/Free]](https://www.codeschool.com/courses/try-git)
+[Git 官方教材](http://git-scm.com/book/zh/ch1-4.html) | [![][All/Free]](http://git-scm.com/book/zh/ch1-4.html)
 
 ### Ruby 語言
 名稱|標籤|
 --- | ---
-[CodeSchool — Try Ruby](https://www.codeschool.com/courses/try-ruby) | ![][All/Free]
-[笨方法學 Ruby](http://lrthw.github.io/) | ![][All/Free]
-[Ruby Document](http://ruby-doc.org) | ![][All/Free]
+[CodeSchool — Try Ruby](https://www.codeschool.com/courses/try-ruby) | [![][All/Free]](https://www.codeschool.com/courses/try-ruby)
+[笨方法學 Ruby](http://lrthw.github.io/) | [![][All/Free]](http://lrthw.github.io/)
+[Ruby Document](http://ruby-doc.org) | [![][All/Free]](http://ruby-doc.org)
 
 ### 其他
 名稱|標籤|
 --- | ---
-[Ruby Warrior ─ 使用 Ruby 過關吧](https://www.bloc.io/ruby-warrior/#/) | ![][All/Free]
-[Codewars](http://www.codewars.com/) | ![][All/Free]
+[Ruby Warrior ─ 使用 Ruby 過關吧](https://www.bloc.io/ruby-warrior/#/) | [![][All/Free]](https://www.bloc.io/ruby-warrior/#/)
+[Codewars](http://www.codewars.com/) | [![][All/Free]](http://www.codewars.com/)
 
 
 ## 朋友學習心得
