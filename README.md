@@ -1,6 +1,6 @@
 # For Rails Beginner
 
-給 Ruby on Rails 入門初學者
+給 Ruby on Rails 入門初學者，或是正要開始學習的朋友。
 
 
 ## 行前建議
