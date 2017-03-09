@@ -42,6 +42,11 @@
 [Ruby on Rails Tutorial](https://www.railstutorial.org/) | [![][Online/Free]](https://www.railstutorial.org/)
 [CodeSchool—PATH Ruby](https://www.codeschool.com/paths/ruby) | [![][Part of/Free]](https://www.codeschool.com/paths/ruby) [![][Monthly/$29]](https://www.codeschool.com/paths/ruby)
 
+### 實體課程
+名稱|標籤|
+--- | ---
+[Ruby on Rails 從零開始 by 五倍紅寶石](https://5xruby.tw/talks?category=ruby-on-rails) | [![][Pay by/Course]](https://5xruby.tw/talks?category=ruby-on-rails)
+
 
 ## 各別項目課程
 
@@ -52,7 +57,7 @@
 --- | ---
 [CodeCademy—HTML&CSS](https://www.codecademy.com/learn/web) | [![][All/Free]](https://www.codecademy.com/learn/web)
 [CodeSchool—HTML/CSS](https://www.codeschool.com/paths/html-css) | [![][Part of/Free]](https://www.codeschool.com/paths/html-css) [![][Monthly/$29]](https://www.codeschool.com/paths/html-css)
-[Code Guide by @mdo](http://mdo.github.io/code-guide/) [繁中](http://juanitofatas.com/code-guide/) | [![][All/Free]](http://juanitofatas.com/code-guide/)
+[Code Guide by @mdo](http://mdo.github.io/code-guide/) | [![][All/Free]](http://juanitofatas.com/code-guide/)
 [Primer](http://primercss.io) | [![][All/Free]](http://primercss.io)
 [MDN──給開發者的網頁技術文件](https://developer.mozilla.org/zh-TW/docs/Web) | [![][All/Free]](https://developer.mozilla.org/zh-TW/docs/Web)
 
@@ -89,6 +94,7 @@
 - 內容先決──[新手寫給新手的 Ruby on Rails 介紹](http://disco26.logdown.com/posts/168410-novice-to-novice-ruby-on-rails-introduction)
 - Annideas──[Ruby女孩：10萬.times { puts "為什麼？" }](http://blog.annideas.com/ironman7)
 
+
 ## 有問題、找導師、找戰友、找工作
 
 ### 有問題
@@ -114,12 +120,8 @@
   - Thoughtbot—[land your dream rails job](https://upcase.com/pages/land-your-dream-rails-job)
 
 
-## Notes
-
-- 參考資料：[Ruby on Rails 新手村精華區](http://bit.ly/1A3j4zE)
-
-
 [All/Free]: https://img.shields.io/badge/All-Free-green.svg?style=flat-square "All Free"
 [Online/Free]: https://img.shields.io/badge/Online-Free-green.svg?style=flat-square "Online Free"
 [Part of/Free]: https://img.shields.io/badge/Part_of-Free-green.svg?style=flat-square "Part of Free"
 [Monthly/$29]: https://img.shields.io/badge/Monthly-$29-red.svg?style=flat-square "Monthly $29"
+[Pay by/Course]: https://img.shields.io/badge/Monthly-$29-red.svg?style=flat-square "Pay by Course"
