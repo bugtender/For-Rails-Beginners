@@ -29,11 +29,9 @@
 
 名稱|標籤|
 --- | ---
-[Rails Girls 官方指南中文版](http://railsgirls.tw/) | [![][All/Free]](http://railsgirls.tw/)
 [為你自己學 Ruby on Rails](http://railsbook.tw/) | [![][All/Free]](http://railsbook.tw/)
 [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/) | [![][All/Free]](https://ihower.tw/rails4/)
 [Ruby on Rails 教程](http://railstutorial-china.org/) | [![][All/Free]](http://railstutorial-china.org/)
-[Rails 101 課程](http://courses.growthschool.com/courses/rails-101) | [![][All/Free]](http://courses.growthschool.com/courses/rails-101)
 [Rails Guides](http://guides.rubyonrails.org/) | [![][All/Free]](http://guides.rubyonrails.org/)
 
 ### 互動教學或是影片教學
