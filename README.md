@@ -94,6 +94,7 @@
 - Annideas──[Ruby女孩：10萬.times { puts "為什麼？" }](http://blog.annideas.com/ironman7)
 - Annideas──[我的Ruby學習之路](http://blog.annideas.com/2016/10/04/my-ruby-life/)
 
+
 ## 有問題、找導師、找戰友、找工作
 
 ### 有問題
@@ -105,18 +106,31 @@
   - [RailsFun 論壇](http://railsfun.tw/)
   - [Ruby China 論壇](https://ruby-china.org/)
 
-### 找導師、找戰友
-  - [台灣 Ruby 社群聚會表](https://github.com/rubytaiwan/rubytw-reboot/wiki/Meetups)
+### 找導師、找戰友、找工作
   - [Aruru 自學趣](http://www.aruru.co/)
-
-### 找工作
-  - [台灣 Ruby 社群聚會表](https://github.com/rubytaiwan/rubytw-reboot/wiki/Meetups)
   - [台灣使用 Ruby 的公司列表](https://github.com/rubytaiwan/AMA/wiki/Companies)
   - [Ruby Taiwan 職缺看板](http://jobs.ruby.tw/)
   - [Inside Job Board](https://jobs.inside.com.tw/jobs/index?c=&k=ruby+rails)
-  - Bruce 的玩具間──[應徵 Rails 工作的心得](http://toyroom.bruceli.net/tw/2014/02/26/my-experience-on-applying-rails-jobs.html)
   - xdite—[Land dream rails job](https://xdite.gitbooks.io/land-dream-rails-job/content/)
   - Thoughtbot—[land your dream rails job](https://upcase.com/pages/land-your-dream-rails-job)
+
+### 面試心得
+  - Bruce 的玩具間──[應徵 Rails 工作的心得](http://toyroom.bruceli.net/tw/2014/02/26/my-experience-on-applying-rails-jobs.html)
+  - brucehsu (布魯斯)—[[心得] 後端/全端 工程師 面試心得](https://www.ptt.cc/bbs/Soft_Job/M.1451756899.A.CC2.html)
+  - Nic—[一個新鮮人找尋Rails工作的面試經驗](http://blog.niclin.tw/posts/413505-interview-experience)
+
+### 台灣 Ruby 社群聚會表
+Title | Website | Facebook | Time & Location |
+----- | ------- | -------- | --------------- 
+Ruby 默默會 | N/A | [rubymokumokukai](https://www.facebook.com/rubymokumokukai/) | 每週二 19:00pm，五倍紅寶石出礦坑
+Ruby on Rails 新手村 | N/A | [RailsRookie](https://www.facebook.com/groups/RailsRookie/) | 已併入 Ruby 默默會
+Rails Girls Taiwan | [Rails Girls Taiwan](http://railsgirls.tw/) | [railsgirlstw](https://www.facebook.com/railsgirlstw) | 不定期週二晚上，五倍紅寶石出礦坑
+Rails Taiwan Meetup | [Rails Taiwan Meetup](http://www.meetup.com/rails-taiwan) | [railstaiwan](https://www.facebook.com/railstaiwan) | 每週二 19：30pm，Deroot 休閒空間
+RailsFun.tw | [Ruby&Rails Fun!!](http://railsfun.tw/) | [railsfun.tw](https://www.facebook.com/groups/railsfun.tw/) | 隔每週三晚上
+高雄 Rails Meetup | N/A | [Kaohsiung Rails Meetup x 讀書會](https://www.facebook.com/groups/569223303140308)| 每週三晚上
+桃園 Ruby on Rails 讀書會 | N/A | [桃園 Ruby on Rails 讀書會](https://www.facebook.com/groups/tyror/) | 暫停
+Ruby Taiwan | [Ruby Taiwan](https://ruby.tw) | [RubyTaiwan](https://www.facebook.com/groups/142197385837507/) | N/A
+RORTaichung | N/A | [Ruby on Rails 臺中練功房](https://www.facebook.com/groups/RORTaichung/) | 每週四 18：30，曉明摩斯
 
 
 [All/Free]: https://img.shields.io/badge/All-Free-green.svg?style=flat-square "All Free"
