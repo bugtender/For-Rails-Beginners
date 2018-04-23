@@ -69,6 +69,7 @@
 ### Git 使用
 名稱|標籤|
 --- | ---
+[為你自己學 Git](https://gitbook.tw/) | [![][All/Free]](https://gitbook.tw/)
 [連猴子都能懂得 Git 入門指南](https://backlogtool.com/git-guide/tw/) | [![][All/Free]](https://backlogtool.com/git-guide/tw/)
 [CodeSchool—Try git](https://www.codeschool.com/courses/try-git) | [![][All/Free]](https://www.codeschool.com/courses/try-git)
 [Git 官方教材](http://git-scm.com/book/zh/ch1-4.html) | [![][All/Free]](http://git-scm.com/book/zh/ch1-4.html)
@@ -109,15 +110,15 @@
 ### 找導師、找戰友、找工作
   - [Aruru 自學趣](http://www.aruru.co/)
   - [台灣使用 Ruby 的公司列表](https://github.com/rubytaiwan/AMA/wiki/Companies)
+  - [Ruby 默默會 - 工作職缺看版](https://github.com/5xRuby/mokumokukai)
   - [Ruby Taiwan 職缺看板](http://jobs.ruby.tw/)
   - [Inside Job Board](https://jobs.inside.com.tw/jobs/index?c=&k=ruby+rails)
   - xdite—[Land dream rails job](https://xdite.gitbooks.io/land-dream-rails-job/content/)
-  - Thoughtbot—[land your dream rails job](https://upcase.com/pages/land-your-dream-rails-job)
 
 ### 面試心得
   - Bruce 的玩具間──[應徵 Rails 工作的心得](http://toyroom.bruceli.net/tw/2014/02/26/my-experience-on-applying-rails-jobs.html)
   - brucehsu (布魯斯)—[[心得] 後端/全端 工程師 面試心得](https://www.ptt.cc/bbs/Soft_Job/M.1451756899.A.CC2.html)
-  - Nic—[一個新鮮人找尋Rails工作的面試經驗](http://blog.niclin.tw/posts/413505-interview-experience)
+  - Nic—[一個新鮮人找尋Rails工作的面試經驗](http://niclin.logdown.com/posts/413505-interview-experience)
 
 ### 台灣 Ruby 社群聚會表
 Title | Website | Facebook | Time & Location |
