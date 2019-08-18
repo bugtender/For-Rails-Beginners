@@ -44,11 +44,11 @@
 ![][Online/Free] | [UPCASE by Thoughtbot](https://thoughtbot.com/upcase)
 ![][Online/Free] | [Learn Rails by codecademy](https://www.codecademy.com/learn/learn-rails)
 
-
 ### 實體課程
 標籤|名稱|
 --- | ---
 ![][Pay by/Course] | [Ruby on Rails 從零開始 by 五倍紅寶石](https://5xruby.tw/talks?category=ruby-on-rails)
+
 
 ## 各別項目課程
 
@@ -65,7 +65,6 @@
 標籤|名稱|
 --- | ---
 ![][Online/Free] | [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)
-![][All/Free] | [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
 ### Git 使用
 標籤|名稱|
@@ -73,6 +72,7 @@
 ![][All/Free] | [為你自己學 Git](https://gitbook.tw/)
 ![][All/Free] | [連猴子都能懂得 Git 入門指南](https://backlogtool.com/git-guide/tw/)
 ![][All/Free] | [Git 官方教材](http://git-scm.com/book/zh/ch1-4.html)
+![][All/Free] | [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### Ruby 語言
 標籤|名稱|
@@ -87,14 +87,16 @@
 ![][All/Free] | [Codewars](http://www.codewars.com/)
 
 
-## 朋友學習心得
+## 學習心得
 
 - [[問題] RUBY在台灣還有市場嗎？](https://www.ptt.cc/bbs/Ruby/M.1531982229.A.9E9.html)
+- Huli──[每一篇心得都有價值——為什麼初學者才更應該要寫心得筆記](https://medium.com/hulis-blog/why-blogging-ab77fd8c6ffa)
 - Kevin──[Ruby on Rails 新手自學的各種血淚與經驗分享](https://devs.tw/post/168)
 - Annideas──[Ruby女孩：10萬.times { puts "為什麼？" }](https://ithelp.ithome.com.tw/users/20091352/ironman/811)
 - Annideas──[我的Ruby學習之路](http://annideas.tw/2016/10/04/my-ruby-life/)
 - 攝理生活記──[Ruby on Rails 自學推薦資源以及注意事項](http://blog.cgmlife.net/posts/2014/04/12/recommended-ruby-on-rails-learning-resources)
 - 內容先決──[新手寫給新手的 Ruby on Rails 介紹](http://disco26.logdown.com/posts/168410-novice-to-novice-ruby-on-rails-introduction)
+- Azraeil──[我的 Ruby on Rails 400 小時自我學習心得紀錄](https://medium.com/@Izraeill/%E5%88%86%E4%BA%AB-%E6%88%91%E7%9A%84-ruby-on-rails-400-%E5%B0%8F%E6%99%82%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97%E7%B4%80%E9%8C%84-c6821e801f1b)
 
 
 ## 有問題、找導師、找戰友、找工作
@@ -105,7 +107,6 @@
   - 找找 [Stack Overflow](http://stackoverflow.com/)
   - [Ruby Taiwan AMA (Ask Me Anything)](https://github.com/rubytaiwan/AMA)
   - [Facebook—Ruby on Rails 新手村](https://www.facebook.com/groups/RailsRookie/)
-  - [RailsFun 論壇](http://railsfun.tw/)
   - [Ruby China 論壇](https://ruby-china.org/)
 
 ### 找導師、找戰友、找工作
@@ -117,10 +118,12 @@
 ### 面試心得
   - 李威辰──[菜鳥Rails工作面試初體驗](https://medium.com/@eggyy1224/%E8%8F%9C%E9%B3%A5rails%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%A9%A6%E5%88%9D%E9%AB%94%E9%A9%97-a562cc700133)
   - Nathan Lee──[Jr. Ruby on Rails Engineer面試初體驗（上）：事前準備 & 技術面試](https://medium.com/change-or-die/jr-rails-on-rails-engineer%E9%9D%A2%E8%A9%A6%E5%88%9D%E9%AB%94%E9%A9%97-%E4%B8%8A-%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99-%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6-8a471f107c15)
-  - Nic──[一個新鮮人找尋Rails工作的面試經驗](http://niclin.logdown.com/posts/413505-interview-experience)
   - alanyeh (小強)──[Rails面試分享](https://www.ptt.cc/bbs/Soft_Job/M.1460708204.A.FF5.html)
   - Bruce 的玩具間──[應徵 Rails 工作的心得](http://toyroom.bruceli.net/tw/2014/02/26/my-experience-on-applying-rails-jobs.html)
   - brucehsu (布魯斯)──[[心得] 後端/全端 工程師 面試心得](https://www.ptt.cc/bbs/Soft_Job/M.1451756899.A.CC2.html)
+  - Fred Hung──[轉職 Web 工程師 — 公務員還俗記](https://medium.com/alpha-camp-%E5%8F%B0%E7%81%A3/%E8%BD%89%E8%81%B7-web-%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E5%85%AC%E5%8B%99%E5%93%A1%E9%82%84%E4%BF%97%E8%A8%98-c4d8389e944a)
+  - Nic──[一個新鮮人找尋Rails工作的面試經驗](http://niclin.logdown.com/posts/413505-interview-experience)
+  - Nic──[我的中高階 Rails 工作面試心得分享](https://blog.niclin.tw/2019/04/29/%E6%88%91%E7%9A%84%E4%B8%AD%E9%AB%98%E9%9A%8E-rails-%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/)
 
 ### 台灣 Ruby 社群聚會表
 Title | Website | Facebook | Time & Location |
