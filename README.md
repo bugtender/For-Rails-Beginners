@@ -122,7 +122,7 @@
   - Bruce 的玩具間──[應徵 Rails 工作的心得](http://toyroom.bruceli.net/tw/2014/02/26/my-experience-on-applying-rails-jobs.html)
   - brucehsu (布魯斯)──[[心得] 後端/全端 工程師 面試心得](https://www.ptt.cc/bbs/Soft_Job/M.1451756899.A.CC2.html)
   - Fred Hung──[轉職 Web 工程師 — 公務員還俗記](https://medium.com/alpha-camp-%E5%8F%B0%E7%81%A3/%E8%BD%89%E8%81%B7-web-%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E5%85%AC%E5%8B%99%E5%93%A1%E9%82%84%E4%BF%97%E8%A8%98-c4d8389e944a)
-  - Nic──[一個新鮮人找尋Rails工作的面試經驗](http://niclin.logdown.com/posts/413505-interview-experience)
+  - Nic──[一個新鮮人找尋Rails工作的面試經驗](https://blog.niclin.tw/2016/01/07/%E4%B8%80%E5%80%8B%E6%96%B0%E9%AE%AE%E4%BA%BA%E6%89%BE%E5%B0%8Brails%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%9D%A2%E8%A9%A6%E7%B6%93%E9%A9%97/)
   - Nic──[我的中高階 Rails 工作面試心得分享](https://blog.niclin.tw/2019/04/29/%E6%88%91%E7%9A%84%E4%B8%AD%E9%AB%98%E9%9A%8E-rails-%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/)
 
 ### 台灣 Ruby 社群聚會表
