@@ -23,7 +23,7 @@
 
 ## 完整教學課程
 
-> 這邊收錄完整的教學課程，幾乎都是從基礎教起到可實作出簡單的網站。
+這邊收錄完整的教學課程，幾乎都是從基礎教起到可實作出簡單的網站。
 
 ### 文章
 
@@ -35,16 +35,17 @@
 ![][All/Free] | [Rails Guides](http://guides.rubyonrails.org/)
 
 ### 互動教學或是影片教學
+
 標籤|名稱|
 --- | ---
 ![][Pay by/Course] | [為你自己把程式學好](https://iamcoding.tw/)
-![][Pay by/Course] | [後端全攻略，用 Rails 讓你的網頁活起來！](https://hahow.in/courses/58d8b4a427ea7d07006025f8/main)
 ![][Online/Free] | [RailsFun 教學與分享](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_)
 ![][Online/Free] | [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 ![][Online/Free] | [UPCASE by Thoughtbot](https://thoughtbot.com/upcase)
 ![][Online/Free] | [Learn Rails by codecademy](https://www.codecademy.com/learn/learn-rails)
 
 ### 實體課程
+
 標籤|名稱|
 --- | ---
 ![][Pay by/Course] | [Ruby on Rails 從零開始 by 五倍紅寶石](https://5xruby.tw/talks?category=ruby-on-rails)
@@ -52,9 +53,10 @@
 
 ## 各別項目課程
 
-> 教材各項目擇一學習即可，此部分為建構基本網頁知識
+教材各項目擇一學習即可，此部分為建構基本網頁知識
 
 ### 網站基本架構
+
 標籤|名稱|
 --- | ---
 ![][All/Free] | [CodeCademy—Learn html](https://www.codecademy.com/learn/learn-html)
@@ -62,11 +64,13 @@
 ![][All/Free] | [MDN──給開發者的網頁技術文件](https://developer.mozilla.org/zh-TW/docs/Web)
 
 ### Command Line
+
 標籤|名稱|
 --- | ---
 ![][Online/Free] | [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)
 
 ### Git 使用
+
 標籤|名稱|
 --- | ---
 ![][All/Free] | [為你自己學 Git](https://gitbook.tw/)
@@ -75,12 +79,14 @@
 ![][All/Free] | [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### Ruby 語言
+
 標籤|名稱|
 --- | ---
 ![][All/Free] | [笨方法學 Ruby](http://lrthw.github.io/)
 ![][All/Free] | [Ruby Document](http://ruby-doc.org)
 
 ### 其他
+
 標籤|名稱|
 --- | ---
 ![][All/Free] | [Ruby Warrior ─ 使用 Ruby 過關吧](https://www.bloc.io/ruby-warrior/#/)
@@ -119,13 +125,12 @@
   - [Ruby China 論壇](https://ruby-china.org/)
 
 ### 找導師、找戰友、找工作
-  - [Aruru 自學趣](http://www.aruru.co/)
   - [台灣使用 Ruby 的公司列表](https://github.com/rubytaiwan/AMA/wiki/Companies)
   - [Ruby 默默會 - 工作職缺看版](https://github.com/5xRuby/mokumokukai)
   - [Ruby Taiwan 職缺看板](http://jobs.ruby.tw/)
 
 ### 面試心得
-  - [30天修煉Ruby面試精選30題](https://ithelp.ithome.com.tw/users/20111177/ironman/1613)
+  - Ting Ting──[30天修煉Ruby面試精選30題](https://ithelp.ithome.com.tw/users/20111177/ironman/1613)
   - 李威辰──[菜鳥Rails工作面試初體驗](https://medium.com/@eggyy1224/%E8%8F%9C%E9%B3%A5rails%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%A9%A6%E5%88%9D%E9%AB%94%E9%A9%97-a562cc700133)
   - Nathan Lee──[Jr. Ruby on Rails Engineer面試初體驗（上）：事前準備 & 技術面試](https://medium.com/change-or-die/jr-rails-on-rails-engineer%E9%9D%A2%E8%A9%A6%E5%88%9D%E9%AB%94%E9%A9%97-%E4%B8%8A-%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99-%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6-8a471f107c15)
   - alanyeh (小強)──[Rails面試分享](https://www.ptt.cc/bbs/Soft_Job/M.1460708204.A.FF5.html)
