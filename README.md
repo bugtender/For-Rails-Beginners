@@ -105,7 +105,7 @@
   - Annideas──[我的Ruby學習之路](http://annideas.tw/2016/10/04/my-ruby-life/)
   - 攝理生活記──[Ruby on Rails 自學推薦資源以及注意事項](http://blog.cgmlife.net/posts/2014/04/12/recommended-ruby-on-rails-learning-resources)
   - 內容先決──[新手寫給新手的 Ruby on Rails 介紹](http://disco26.logdown.com/posts/168410-novice-to-novice-ruby-on-rails-introduction)
-  - Azraeil──[我的 Ruby on Rails 400 小時自我學習心得紀錄](https://medium.com/@Izraeill/%E5%88%86%E4%BA%AB-%E6%88%91%E7%9A%84-ruby-on-rails-400-%E5%B0%8F%E6%99%82%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97%E7%B4%80%E9%8C%84-c6821e801f1b)
+  - Azraeil──[我的 Ruby on Rails 400 小時自我學習心得紀錄](https://web.archive.org/web/20191126133646/https://medium.com/@Izraeill/%E5%88%86%E4%BA%AB-%E6%88%91%E7%9A%84-ruby-on-rails-400-%E5%B0%8F%E6%99%82%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97%E7%B4%80%E9%8C%84-c6821e801f1b)
 
 ### 鐵人賽 30 天挑戰
   - Vita Ora──[Junior Ruby on Rails 工程師的心得與自我挑戰 30 天](https://ithelp.ithome.com.tw/users/20112656/ironman/2205)
