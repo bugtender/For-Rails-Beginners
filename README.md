@@ -31,7 +31,6 @@
 --- | ---
 ![][All/Free] | [為你自己學 Ruby on Rails](http://railsbook.tw/)
 ![][All/Free] | [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/)
-![][All/Free] | [Ruby on Rails 教程](http://railstutorial-china.org/)
 ![][All/Free] | [Rails Guides](http://guides.rubyonrails.org/)
 
 ### 互動教學或是影片教學
@@ -84,12 +83,13 @@
 --- | ---
 ![][All/Free] | [笨方法學 Ruby](http://lrthw.github.io/)
 ![][All/Free] | [Ruby Document](http://ruby-doc.org)
+![][All/Free] | [Ruby 語言官方網站](https://www.ruby-lang.org/zh_tw/)
 
 ### 其他
 
 標籤|名稱|
 --- | ---
-![][All/Free] | [Ruby Warrior ─ 使用 Ruby 過關吧](https://www.bloc.io/ruby-warrior/#/)
+![][All/Free] | [使用 Ruby on Rails 開發一款網頁遊戲](https://www.youtube.com/playlist?list=PLnY6meQl8ifGFjqrU5Q1no5fGi-_u0abG)
 ![][All/Free] | [Codewars](http://www.codewars.com/)
 
 
@@ -97,6 +97,9 @@
 
 ### 講座
   - 高見龍──[我寫了 10 年的 Ruby，然後呢](https://coscup.org/2018/programs/10-year-ruby/)（[影片](https://www.youtube.com/watch?v=UJ7ZkX6yiJM)）
+
+### 部落格
+  - [蒼時弦也](https://blog.aotoki.me/)
 
 ### 文章
   - [[問題] RUBY在台灣還有市場嗎？](https://www.ptt.cc/bbs/Ruby/M.1531982229.A.9E9.html)
