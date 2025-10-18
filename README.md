@@ -38,7 +38,6 @@
 標籤|名稱|
 --- | ---
 ![][Pay by/Course] | [為你自己把程式學好](https://iamcoding.tw/)
-![][Online/Free] | [RailsFun 教學與分享](https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_)
 ![][Online/Free] | [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 ![][Online/Free] | [UPCASE by Thoughtbot](https://thoughtbot.com/upcase)
 ![][Online/Free] | [Learn Rails by codecademy](https://www.codecademy.com/learn/learn-rails)
@@ -106,15 +105,11 @@
   - Huli──[每一篇心得都有價值——為什麼初學者才更應該要寫心得筆記](https://medium.com/hulis-blog/why-blogging-ab77fd8c6ffa)
   - Kevin──[Ruby on Rails 新手自學的各種血淚與經驗分享](https://devs.tw/post/168)
   - Annideas──[我的Ruby學習之路](http://annideas.tw/2016/10/04/my-ruby-life/)
-  - 攝理生活記──[Ruby on Rails 自學推薦資源以及注意事項](http://blog.cgmlife.net/posts/2014/04/12/recommended-ruby-on-rails-learning-resources)
-  - 內容先決──[新手寫給新手的 Ruby on Rails 介紹](http://disco26.logdown.com/posts/168410-novice-to-novice-ruby-on-rails-introduction)
-  - Azraeil──[我的 Ruby on Rails 400 小時自我學習心得紀錄](https://web.archive.org/web/20191126133646/https://medium.com/@Izraeill/%E5%88%86%E4%BA%AB-%E6%88%91%E7%9A%84-ruby-on-rails-400-%E5%B0%8F%E6%99%82%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97%E7%B4%80%E9%8C%84-c6821e801f1b)
 
 ### 鐵人賽 30 天挑戰
   - Vita Ora──[Junior Ruby on Rails 工程師的心得與自我挑戰 30 天](https://ithelp.ithome.com.tw/users/20112656/ironman/2205)
   - River──[自我挑戰 Ruby 刷題 30 天](https://ithelp.ithome.com.tw/users/20061211/ironman/2674)
   - 行天宮安東尼──[Rails guide / Ruby API study](https://ithelp.ithome.com.tw/users/20120742/ironman/2631)
-  - CJ-Han──[鐵人賽](https://cjhan.tw/posts/ithome-day0-introduction)
   - Annideas──[Ruby女孩：10萬.times { puts "為什麼？" }](https://ithelp.ithome.com.tw/users/20091352/ironman/811)
  
 ## 有問題、找導師、找戰友、找工作
@@ -130,7 +125,6 @@
 ### 找導師、找戰友、找工作
   - [台灣使用 Ruby 的公司列表](https://github.com/rubytaiwan/AMA/wiki/Companies)
   - [Ruby 默默會 - 工作職缺看版](https://github.com/5xRuby/mokumokukai)
-  - [Ruby Taiwan 職缺看板](http://jobs.ruby.tw/)
 
 ### 面試心得
   - Ting Ting──[30天修煉Ruby面試精選30題](https://ithelp.ithome.com.tw/users/20111177/ironman/1613)
